@@ -1,6 +1,6 @@
 ## Atividade 02 - App Notes!
 
-Para as orientações, consule o enunciado (PDF) no Moodle.
+Para as orientações, consulte o enunciado (PDF) no Moodle.
 
 Demo do comportamento esperado do aplicativo.
 
